@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### About me
+
 - 👸 One grilfriend
 - 🐱 Two cat
+
+#### Skill
+
+<img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
 
 
