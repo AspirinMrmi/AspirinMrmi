@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 -->
 
 #### About me
-
-- 👸 One girlfriend
-- 🐱 Two cat
+This gus is myterious
 
 #### Skill
 
